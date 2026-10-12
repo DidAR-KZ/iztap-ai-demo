@@ -8,4 +8,4 @@ GitHub Pages setup: Settings > Pages > Build and deployment > GitHub Actions. Wo
 
 Site: https://didar-kz.github.io/iztap-ai-demo/
 
-Design file: https://www.figma.com/design/POF84mj7kx4HITFRHRV7pz
+Design file: https://www.figma.com/design/yqRXg0VWwd4v3U2zutR5Vw
